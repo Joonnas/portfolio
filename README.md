@@ -13,7 +13,10 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
 - **Technologies**: Godot
 
 - **Screenshot**:  
-  ![Garden of Atlantis Screenshot](https://yourusername.github.io/yourrepo/assets/garden_of_atlantis.png)
+  ![Garden of Atlantis Screenshot 1](https://github.com/Joonnas/portfolio/blob/main/images/garden_of_atlantis/Atlantis_01.png)
+  ![Garden of Atlantis Screenshot 2](https://github.com/Joonnas/portfolio/blob/main/images/garden_of_atlantis/Atlantis_02.png)
+  ![Garden of Atlantis Screenshot 3](https://github.com/Joonnas/portfolio/blob/main/images/garden_of_atlantis/Atlantis_03.png)
+  ![Garden of Atlantis Screenshot 4](https://github.com/Joonnas/portfolio/blob/main/images/garden_of_atlantis/Atlantis_04.png)
 
 ---
 
@@ -24,7 +27,8 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
 - **Technologies**: C++, OpenGL
 
 - **Screenshot**:  
-  ![Fluid Engine Screenshot](https://yourusername.github.io/yourrepo/assets/particle_fluid.png)
+  ![Fluid Engine Screenshot 1](https://github.com/Joonnas/portfolio/blob/main/images/simple_3d_engine/Engine_01.png)
+  ![Fluid Engine Screenshot 2](https://github.com/Joonnas/portfolio/blob/main/images/simple_3d_engine/Engine_02.png)
 
 ---
 
@@ -44,7 +48,9 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
 - **Technologies**: C++, Mitsuba3, USD (Universal Scene Description)  
 
 - **Screenshot**:  
-  ![USD Importer Screenshot](https://yourusername.github.io/yourrepo/assets/usd_importer.png)
+  ![USD Importer Screenshot 1](https://github.com/Joonnas/portfolio/blob/main/images/usd_importer/Kubus_simple.png)
+  ![USD Importer Screenshot 2](https://github.com/Joonnas/portfolio/blob/main/images/usd_importer/cbox_setting01_mitsuba_stratified_ssp144.png)
+  ![USD Importer Screenshot 3](https://github.com/Joonnas/portfolio/blob/main/images/usd_importer/cbox_showcases.png)
 
 ---
 
@@ -55,7 +61,9 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
 - **Technologies**: Godot Engine
 
 - **Screenshot**:  
-  ![Audio Middleware Screenshot](https://yourusername.github.io/yourrepo/assets/audio_middleware.png)
+  ![Audio Middleware Screenshot 1](https://github.com/Joonnas/portfolio/blob/main/images/godot_audio_middleware/AuditivGroup_DraggableContainer.png)
+  ![Audio Middleware Screenshot 2](https://github.com/Joonnas/portfolio/blob/main/images/godot_audio_middleware/Auditiv_Actions.png)
+  ![Audio Middleware Screenshot 3](https://github.com/Joonnas/portfolio/blob/main/images/godot_audio_middleware/Auditiv_Sound_Selection.png)
 
 ---
 
@@ -72,12 +80,15 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
 
 - **Screenshots**:
   - Parallax Mapping:  
-    ![Parallax Mapping](https://yourusername.github.io/yourrepo/assets/parallax_mapping.png)
-  - Dice Shader:  
-    ![Dice Shader](https://yourusername.github.io/yourrepo/assets/dice_shader.png)
+    ![Parallax Mapping 1](https://github.com/Joonnas/portfolio/blob/main/images/shader/parallax_card.gif)
+    ![Parallax Mapping 2](https://github.com/Joonnas/portfolio/blob/main/images/shader/parallax_card_snake.gif)
+  - Dice Shader (if you see this message, this means you were faster than I. I have to get to my laptop to make a screenshot of the shader :D) :  
+    ![Dice Shader]()
   - Pixelated Fire:  
-    ![Pixelated Fire](https://yourusername.github.io/yourrepo/assets/pixelated_fire.png)
+    ![Pixelated Fire](https://github.com/Joonnas/portfolio/blob/main/images/shader/pixelated_fire.gif)
   - Pixelated Vignette:  
-    ![Pixelated Vignette](https://yourusername.github.io/yourrepo/assets/pixelated_vignette.png)
+    ![Pixelated Vignette](https://github.com/Joonnas/portfolio/blob/main/images/shader/pixelated_vignette.gif)
+  - Parralax Card Effect using new stencil buffer function in Godot
+    ![Stencil Buffer Parallax Card](https://github.com/Joonnas/portfolio/blob/main/images/shader/stencil_parallax_card_01.gif)
 
 ---
