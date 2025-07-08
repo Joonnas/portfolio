@@ -82,8 +82,8 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
   - Parallax Mapping:  
     ![Parallax Mapping 1](https://github.com/Joonnas/portfolio/blob/main/images/shader/parallax_card.gif)
     ![Parallax Mapping 2](https://github.com/Joonnas/portfolio/blob/main/images/shader/parallax_card_snake.gif)
-  - Dice Shader (if you see this message, this means you were faster than I. I have to get to my laptop to make a screenshot of the shader :D) :  
-    ![Dice Shader]()
+  - Dice Shader:  
+    ![Dice Shader](https://github.com/Joonnas/portfolio/blob/main/images/shader/dice.gif)
   - Pixelated Fire:  
     ![Pixelated Fire](https://github.com/Joonnas/portfolio/blob/main/images/shader/pixelated_fire.gif)
   - Pixelated Vignette:  
