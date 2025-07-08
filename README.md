@@ -4,6 +4,15 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
 
 ---
 
+## **Table of Contents**
+
+1. [Garden of Atlantis](#1-garden-of-atlantis)
+2. [Simple 3D Engine with Particle-Based Fluids](#2-simple-3d-engine-with-particle-based-fluids)
+3. [AI-Generated Rendering Pipeline](#3-ai-generated-rendering-pipeline)
+4. [USD Importer for Mitsuba3 Renderer](#4-usd-importer-for-mitsuba3-renderer)
+5. [Audio Middleware for Godot](#5-audio-middleware-for-godot)
+6. [Shader Portfolio](#6-shader-portfolio)
+
 ## **Projects**
 
 ### **1. Garden of Atlantis**  
