@@ -34,6 +34,7 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
   As part of my **Master's Thesis**, I developed a simple **C++ and OpenGL** rendering engine. The engine supports **instanced rendering** to visualize **particle-based fluids** by rendering thousands of spheres. This project was aimed at visualizing fluid simulations efficiently.
 
 - **Technologies**: C++, OpenGL
+- **Link**: [View on Github](https://github.com/Joonnas/Realtime_MPM)
 
 - **Screenshot**:  
   ![Fluid Engine Screenshot 1](https://github.com/Joonnas/portfolio/blob/main/images/simple_3d_engine/Engine_01.png)
