@@ -12,6 +12,7 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
 4. [USD Importer for Mitsuba3 Renderer](#4-usd-importer-for-mitsuba3-renderer)
 5. [Audio Middleware for Godot](#5-audio-middleware-for-godot)
 6. [Shader Portfolio](#6-shader-portfolio)
+7. [Game projects](#7-game-projects)
 
 ## **Projects**
 
@@ -102,3 +103,13 @@ Welcome to my portfolio! This repository contains a collection of projects I’v
     ![Stencil Buffer Parallax Card](https://github.com/Joonnas/portfolio/blob/main/images/shader/stencil_parallax_card_01.gif)
 
 ---
+
+### **7. Game Projects**
+- **Description**:
+  I have been working on several game projects. From student production over GameJams to real productions with my own game studio:
+
+  - [**QUACK!**: Entry for the Ludum Dare 56 game jam](https://ldjam.com/events/ludum-dare/56/quack)
+  - [**Party Burst**: Entry for the GlobalGameJam 2025](https://globalgamejam.org/games/2025/party-burst-4)
+  - [**Dial it in**: Entry for the FMX GameJam 2025](https://ms-jonas.itch.io/dial-it-in)
+  - [**Große Taktische Aufkleberaktion 6 (GTA6)**: Small game project in cooperation with DASDING](https://chromelody.itch.io/gta7)
+  - [**Amira's Ascent (Demo)**: 2D sokoban-like puzzle game](https://chromelody.itch.io/amiras-ascent)
